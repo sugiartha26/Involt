@@ -11,7 +11,7 @@
 		Select connection type, only ONE can be defined at once.
 	*/
 	var isSerial    = true; //Desktop
-	var isBluetooth = false; //Desktop AND Mobile (BT 2.0)
+	var isBluetooth = true; //Desktop AND Mobile (BT 2.0)
 	/*
 		LOADING SCREEN
 		Set loaderOnLaunch to false and skip loading screen on app launch. 
