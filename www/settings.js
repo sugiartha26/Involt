@@ -10,7 +10,7 @@
 		CONNECTION TYPE
 		Select connection type, only ONE can be defined at once.
 	*/
-	var isSerial    = true; //Desktop
+	var isSerial    = false; //Desktop
 	var isBluetooth = true; //Desktop AND Mobile (BT 2.0)
 	/*
 		LOADING SCREEN
